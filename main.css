@@ -21,6 +21,10 @@
     font-size: 20px;
 }
 
+video  + .controls {
+    display: block;
+}
+
 .controls {
  display: none;
 }
