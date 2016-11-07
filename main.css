@@ -21,6 +21,6 @@
     font-size: 20px;
 }
 
-.controls {
+.controls:hover {
  color:#efefef;   
 }
