@@ -22,5 +22,5 @@
 }
 
 .controls:hover {
- color:#efefef;   
+ display: none;
 }
